@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
 <h3 align="center">A seasoned MERN Stack Developer with 3+ years of experience</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hamzaansari15&label=Profile%20views&color=0e75b6&style=flat" alt="muzammilshah803" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hamzaansari15&label=Profile%20views&color=0e75b6&style=flat" alt="Hamzaansari15" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammilshah803" alt="muzammilshah803" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hamzaansari15" alt="Hamzaansari15" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/muzammilshah803" target="blank"><img src="https://img.shields.io/twitter/follow/muzammilshah803?logo=twitter&style=for-the-badge" alt="muzammilshah803" /></a> </p>
 
