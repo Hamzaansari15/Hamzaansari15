@@ -2,10 +2,11 @@
 <h3 align="center">A seasoned MERN Stack Developer with 3+ years of experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hamzaansari15&label=Profile%20views&color=0e75b6&style=flat" alt="muzammilshah803" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hamzaansari15&label=Profile%20views&color=0e75b6&style=flat" alt="Hamzaansari15" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammilshah803" alt="muzammilshah803" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hamzaansari15" alt="Hamzaansari15" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/muzammilshah803" target="blank"><img src="https://img.shields.io/twitter/follow/muzammilshah803?logo=twitter&style=for-the-badge" alt="muzammilshah803" /></a> </p>
+<p align="left"> <a href="https://twitter.com/muzammilshah803" target="blank"><img src="https://img.shields.io/twitter/follow/Hamzaansari15?logo=twitter&style=for-the-badge" alt="Hamzaansari15" /></a> </p>
 
 - 🔭 I'm currently working on **scaling microservices architectures**
 
@@ -43,6 +44,13 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
+
+<img width='600' alt="Hamza's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Hamzaansari15&show_icons=true&theme=transparent"/>
+<div height="24"/>
+<img width='600'  alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzaansari15&layout=compact&&langs_count=8"/>
+<div height="24"/>
+<img width='600'  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzaansari15" alt="Hamzaansari15" />
+
 ### My stats ⭐
 
 <div align="center">
