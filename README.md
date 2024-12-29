@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hamzaansari15" alt="Hamzaansari15" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/muzammilshah803" target="blank"><img src="https://img.shields.io/twitter/follow/muzammilshah803?logo=twitter&style=for-the-badge" alt="muzammilshah803" /></a> </p>
+<p align="left"> <a href="https://twitter.com/muzammilshah803" target="blank"><img src="https://img.shields.io/twitter/follow/Hamzaansari15?logo=twitter&style=for-the-badge" alt="Hamzaansari15" /></a> </p>
 
 - 🔭 I'm currently working on **scaling microservices architectures**
 
