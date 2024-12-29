@@ -43,7 +43,6 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-### My stats ⭐
 
 <div align="center">
 <img alt="Hamza's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Hamzaansari15&show_icons=true&theme=transparent"/>
