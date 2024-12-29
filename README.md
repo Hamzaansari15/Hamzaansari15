@@ -49,8 +49,8 @@
 <img alt="Hamza's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Hamzaansari15&show_icons=true&theme=transparent"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzaansari15&layout=compact&&langs_count=8"/>
 </div>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzammilshah803&show_icons=true&locale=en&layout=compact" alt="muzammilshah803" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamzaansari15&show_icons=true&locale=en&layout=compact" alt="Hamzaansari15" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzammilshah803&show_icons=true&locale=en" alt="muzammilshah803" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hamzaansari15&show_icons=true&locale=en" alt="Hamzaansari15" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzammilshah803&" alt="muzammilshah803" /></p> --> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzaansari15" alt="Hamzaansari15" /></p> 
