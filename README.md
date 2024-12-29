@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
 <h3 align="center">A seasoned MERN Stack Developer with 3+ years of experience</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hamzaansari15&label=Profile%20views&color=0e75b6&style=flat" alt="muzammilshah803" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hamzaansari15&label=Profile%20views&color=0e75b6&style=flat" alt="Hamzaansari15" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hamzaansari15" alt="Hamzaansari15" /></a> </p>
@@ -50,16 +49,3 @@
 <img width='600'  alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzaansari15&layout=compact&&langs_count=8"/>
 <div height="24"/>
 <img width='600'  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzaansari15" alt="Hamzaansari15" />
-
-### My stats ⭐
-
-<div align="center">
-<img alt="Hamza's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Hamzaansari15&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzaansari15&layout=compact&&langs_count=8"/>
-</div>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzammilshah803&show_icons=true&locale=en&layout=compact" alt="muzammilshah803" /></p> -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzammilshah803&show_icons=true&locale=en" alt="muzammilshah803" /></p> -->
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzammilshah803&" alt="muzammilshah803" /></p> -->
