@@ -47,6 +47,6 @@
 <img width='600' alt="Hamza's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Hamzaansari15&show_icons=true&theme=transparent"/>
 <div/>
 <img width='600'  alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzaansari15&layout=compact&&langs_count=8"/>
-  <div/>
+<div/>
 <img width='600'  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzaansari15" alt="Hamzaansari15" />
 
